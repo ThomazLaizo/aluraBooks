@@ -1,6 +1,12 @@
 # AluraBooks
 Plataforma criada durante o curso de HTML e CSS da Alura.
-Esta platafomra foi criada utilizando conhecimentos básicos de HTML e CSS, 
-estruturação HTML com tags, e estilização do CSS com funções CSS,
-e responsividade básica utilizando media querries.
-Também foram utilizado o fundamento de mobile first para a criação da plataforma.
+Esta plataforma foi criada utilizando conhecimentos básicos de HTML e CSS. 
+
+Durante o desenvolvimento deste projeto, pratiquei:
+
+- Desenvolvimento em HTML5;
+- Estilização com CSS;
+- Importação de funções (swiper);
+- Criação com Mobile First;
+- Responsividade de Interface;
+- Media Queries;
