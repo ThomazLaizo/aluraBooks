@@ -1,4 +1,4 @@
-# AluraBooks
+# aluraBooks
 Plataforma criada durante o curso de HTML e CSS da Alura.
 Esta plataforma foi criada utilizando conhecimentos básicos de HTML e CSS. 
 
